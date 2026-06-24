@@ -111,7 +111,7 @@ Redeploy after adding the variables. The startup script runs migrations automati
 
 ## Default Seeded Account
 
-After running the seeder, a sample user and 6 listings are created:
+After running the seeder, a sample user and 12 Ethiopian job listings are created:
 
 - **Email:** `test@example.com`
 - **Password:** `password`
